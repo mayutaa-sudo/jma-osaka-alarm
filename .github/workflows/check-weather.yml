@@ -1,6 +1,8 @@
 name: Check Weather
 
 on:
+  schedule:
+    - cron: '55 20 * * *'
   workflow_dispatch:
 
 permissions:
