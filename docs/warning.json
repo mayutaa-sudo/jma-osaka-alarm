@@ -1,4 +1,8 @@
 {
+  "city": "大阪市",
   "warning": false,
-  "checked_at": "2026-07-05T13:03:52.122505"
+  "matched_warnings": [],
+  "checked_at": "2026-07-05T22:15:38.234264+09:00",
+  "source_feed": "https://www.data.jma.go.jp/developer/xml/feed/extra_l.xml",
+  "source_xml": null
 }
